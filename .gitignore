@@ -3,3 +3,5 @@
 ################################################################################
 
 /.vs
+/GitHubAction/bin/Debug/netcoreapp3.1
+/GitHubAction/obj
